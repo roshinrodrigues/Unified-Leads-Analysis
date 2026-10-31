@@ -49,7 +49,3 @@ data and predicts whether a lead is likely to convert into a customer.
 
 Developed a machine learning approach to analyze leads and predict their
 conversion, helping improve sales decision-making.
-
-## Author
-
-Roshin Rodrigues
